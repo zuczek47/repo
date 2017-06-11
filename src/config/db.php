@@ -3,7 +3,7 @@
         // Properties
         private $dbhost = 'localhost';
         private $dbuser = 'root';
-        private $dbpass = 'Szparka2';
+        private $dbpass = '****';
         private $dbname = 'AIRQ';
         // Connect
         public function connect(){
